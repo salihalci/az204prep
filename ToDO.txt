@@ -1,0 +1,4 @@
+
+[] Service bus örneğinde döküman formatlarının JSON,XML vs olabileceği yazıyor. Örnek incelenecek.
+  The data can be any kind of information, including structured data encoded with the common formats such as the following ones: 
+  JSON, XML, Apache Avro, Plain Text.
