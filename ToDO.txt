@@ -5,3 +5,4 @@
 [] Resource group silindiğinde ne oluyor. Tüm kaynaklar siliniyor mu kontrol edelim.
 [] Wallet nasıl tanımlanıyor. Limitler konusunu tekrar et.
 [] Redis POC
+[] SAS ve KEY
