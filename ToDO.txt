@@ -9,3 +9,11 @@
 [] Reverse proxy
 [] API Gateway
 [] Open API
+
+
+
+Links
+----
+Storage Queue vs Service Bus
+https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-azure-and-service-bus-queues-compared-contrasted
+
