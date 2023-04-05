@@ -11,6 +11,7 @@
 [] Open API
 [] CORS
 [] Table Storage vs Cosmos DB
+[] Function triggers - email bir trigger değil.
 
 
 
