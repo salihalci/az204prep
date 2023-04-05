@@ -10,6 +10,7 @@
 [] API Gateway
 [] Open API
 [] CORS
+[] Table Storage vs Cosmos DB
 
 
 
