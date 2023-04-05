@@ -9,6 +9,7 @@
 [] Reverse proxy
 [] API Gateway
 [] Open API
+[] CORS
 
 
 
