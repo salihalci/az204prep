@@ -6,3 +6,6 @@
 [] Wallet nasıl tanımlanıyor. Limitler konusunu tekrar et.
 [] Redis POC
 [] SAS ve KEY
+[] Reverse proxy
+[] API Gateway
+[] Open API
