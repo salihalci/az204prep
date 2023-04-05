@@ -12,7 +12,7 @@
 [] CORS
 [] Table Storage vs Cosmos DB
 [] Function triggers - email bir trigger değil.
-
+[] AppService Plans - What is minimum autoscaling plan ->Standard
 
 
 Links
