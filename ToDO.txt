@@ -6,15 +6,22 @@
 [] Wallet nasıl tanımlanıyor. Limitler konusunu tekrar et.
 [] Redis POC
 [] SAS ve KEY
+
 [X] Reverse proxy
   https://www.cloudflare.com/learning/cdn/glossary/reverse-proxy/#:~:text=A%20reverse%20proxy%20is%20a,security%2C%20performance%2C%20and%20reliability.
+
 [X] API Gateway
   https://www.ibm.com/cloud/blog/api-gateway#:~:text=An%20application%20programming%20interface%20(API,in%20a%20single%2C%20combined%20package.
+
 [X] Open API
   https://www.youtube.com/watch?v=pRS9LRBgjYg
+
 [X] CORS
   (412) CORS (Cross-origin Resource Sharing) Nedir? Same Origin Policy, Origin Kavramları - Türkçe - YouTube
-[] Table Storage vs Cosmos DB
+
+[X] Table Storage vs Cosmos DB
+  https://microsoft.github.io/AzureTipsAndTricks/blog/tip360.html
+  
 [] Function triggers - email bir trigger değil.
 [] AppService Plans - What is minimum autoscaling plan ->Standard
 
