@@ -12,7 +12,8 @@
   https://www.ibm.com/cloud/blog/api-gateway#:~:text=An%20application%20programming%20interface%20(API,in%20a%20single%2C%20combined%20package.
 [X] Open API
   https://www.youtube.com/watch?v=pRS9LRBgjYg
-[] CORS
+[X] CORS
+  (412) CORS (Cross-origin Resource Sharing) Nedir? Same Origin Policy, Origin Kavramları - Türkçe - YouTube
 [] Table Storage vs Cosmos DB
 [] Function triggers - email bir trigger değil.
 [] AppService Plans - What is minimum autoscaling plan ->Standard
