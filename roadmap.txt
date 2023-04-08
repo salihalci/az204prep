@@ -1,0 +1,169 @@
+
+1-AZ-204: Create Azure App Service web apps
+	1- Explore Azure App Service
+		Describe Azure App Service key components and value.
+		Explain how Azure App Service manages authentication and authorization.
+		Identify methods to control inbound and outbound traffic to your web app.
+		Deploy an app to App Service using Azure CLI commands.
+	2- Configure web app settings
+		Create application settings that are bound to deployment slots.
+		Explain the options for installing SSL/TLS certificates for your app.
+		Enable diagnostic logging for your app to aid in monitoring and debugging.
+		Create virtual app to directory mappings.
+	3- Scale apps in Azure App Service
+		Identify scenarios for which autoscaling is an appropriate solution.
+		Create autoscaling rules for a web app.
+		Monitor the effects of autoscaling.
+	4- Explore Azure App Service deployment slots
+		Describe the benefits of using deployment slots.
+		Understand how slot swapping operates in App Service.
+		Perform manual swaps and enable auto swap.
+		Route traffic manually and automatically.
+	
+
+2-AZ-204: Implement Azure Functions
+	1- Explore Azure Functions
+		Explain functional differences between Azure Functions, Azure Logic Apps, and WebJobs
+		Describe Azure Functions hosting plan options
+		Describe how Azure Functions scale to meet business needs
+	2- Develop Azure Functions
+		Explain the key components of a function and how they are structured
+		Create triggers and bindings to control when a function runs and where the output is directed
+		Connect a function to services in Azure
+		Create a function by using Visual Studio Code and the Azure Functions Core Tools
+	3- Implement Durable Functions
+		Explain the key components of a function and how they are structured
+		Create triggers and bindings to control when a function runs and where the output is directed
+		Connect a function to services in Azure
+		Create a function by using Visual Studio Code and the Azure Functions Core Tools
+
+
+3-AZ-204: Develop solutions that use Blob storage
+	1- Explore Azure Blob storage
+		Identify the different types of storage accounts and the resource hierarchy for blob storage.
+		Explain how data is securely stored and protected through redundancy.
+		Create a block blob storage account by using the Azure Cloud Shell.
+	2- Manage the Azure Blob storage lifecycle
+		Describe how each of the access tiers are optimized.
+		Create and implement a lifecycle policy.
+		Rehydrate blob data stored in an archive tier.
+	3- Work with Azure Blob storage
+		Create an application to create and manipulate data by using the Azure Storage client library for Blob storage.
+		Manage container properties and metadata by using .NET and REST.
+
+
+4-AZ-204: Develop solutions that use Azure Cosmos DB
+	1- Explore Azure Cosmos DB
+		Identify the key benefits provided by Azure Cosmos DB
+		Describe the elements in an Azure Cosmos DB account and how they are organized
+		Explain the different consistency levels and choose the correct one for your project
+		Explore the APIs supported in Azure Cosmos DB and choose the appropriate API for your solution
+		Describe how request units impact costs
+		Create Azure Cosmos DB resources by using the Azure portal.
+
+	2- Implement partitioning in Azure Cosmos DB
+		Describe the differences between logical and physical partitions
+		Choose the appropriate partition key for your solution
+		Create a synthetic partition key
+		
+	3- Work with Azure Cosmos DB
+		Identify classes and methods used to create resources
+		Create resources by using the Azure Cosmos DB .NET v3 SDK
+		Write stored procedures, triggers, and user-defined functions by using JavaScript
+
+5-AZ-204: Implement infrastructure as a service solutions
+	1- Provision virtual machines in Azure
+		Describe the design considerations for creating a virtual machine to support your apps needs.
+		Explain the different availability options for Azure VMs.
+		Describe the VM sizing options.
+		Create an Azure VM by using the Azure CLI.
+	2- Create and deploy Azure Resource Manager templates
+		Describe what role Azure Resource Manager (ARM) has in Azure and the benefits of using ARM templates.
+		Explain what happens when ARM templates are deployed and how to structure them to support your solution.
+		Create a template with conditional resource deployments.
+		Choose the correct deployment mode for your solution.
+		Create and deploy an ARM template by using Visual Studio Code.
+	3- Manage container images in Azure Container Registry
+		Explain the features and benefits Azure Container Registry offers.
+		Describe how to use ACR Tasks to automate builds and deployments.
+		Explain the elements in a Dockerfile.
+		Build and run an image in the ACR by using Azure CLI.
+	4- Run container images in Azure Container Instances
+		Describe the benefits of Azure Container Instances and how resources are grouped.
+		Deploy a container instance in Azure by using the Azure CLI.
+		Start and stop containers using policies.
+		Set environment variables in your container instances.
+		Mount file shares in your container instances.
+		
+6-AZ-204: Implement user authentication and authorization
+	1- Explore the Microsoft identity platform
+		Identify the components of the Microsoft identity platform.
+		Describe the three types of service principals and how they relate to application objects.
+		Explain how permissions and user consent operate, and how conditional access impacts your application.
+	2- Implement authentication by using the Microsoft Authentication Library
+		Explain the benefits of using Microsoft Authentication Library and the application types and scenarios it supports.
+		Instantiate both public and confidential client apps from code.
+		Register an app with the Microsoft identity platform.
+		Create an app that retrieves a token by using the MSAL.NET library.
+	3- Implement shared access signatures
+		Identify the three types of shared access signatures.
+		Explain when to implement shared access signatures.
+		Create a stored access policy.
+	4- Explore Microsoft Graph
+		Explain the benefits of using Microsoft Graph.
+		Perform operations on Microsoft Graph by using REST and SDKs.
+		Apply best practices to help your applications get the most out of Microsoft Grap
+
+7-AZ-204: Implement secure cloud solutions
+	1- Implement Azure Key Vault
+		Describe the benefits of using Azure Key Vault
+		Explain how to authenticate to Azure Key Vault
+		Set and retrieve a secret from Azure Key Vault by using the Azure CLI
+	2- Implement managed identities
+		Explain the differences between the two types of managed identities
+		Describe the flows for user- and system-assigned managed identities
+		Configure managed identities
+		Acquire access tokens by using REST and code
+	3- Implement Azure App Configuration
+		Explain the benefits of using Azure App Configuration
+		Describe how Azure App Configuration stores information
+		Implement feature management
+		Securely access your app configuration information
+
+8- AZ-204: Implement API Management
+	1-Explore API Management
+		Describe the components (and their functions) of the API Management service.
+		Explain how API gateways can help manage calls to your APIs.
+		Secure access to APIs by using subscriptions and certificates.
+		Create a backend API.
+
+9- AZ-204: Develop event-based solutions
+	1- Explore Azure Event Grid
+		Describe how Event Grid operates and how it connects to services and event handlers.
+		Explain how Event Grid delivers events and how it handles errors.
+		Implement authentication and authorization.
+		Route custom events to web endpoint by using Azure CLI.
+	2- Explore Azure Event Hubs
+		Describe the benefits of using Event Hubs and how it captures streaming data.
+		Explain how to process events.
+		Perform common operations with the Event Hubs client library.
+
+10- AZ-204: Develop message-based solutions
+	1- Discover Azure message queues
+		Choose the appropriate queue mechanism for your solution.
+		Explain how the messaging entities that form the core capabilities of Service Bus operate.
+		Send and receive message from a Service Bus queue by using .NET.
+		Identify the key components of Azure Queue Storage
+		Create queues and manage messages in Azure Queue Storage by using .NET.
+
+11- AZ-204: Instrument solutions to support monitoring and logging
+	1- Monitor app performance
+		Explain how Azure Monitor operates as the center of monitoring in Azure.
+		Describe how Application Insights works and how it collects events and metrics.
+		Instrument an app for monitoring, perform availability tests, and use Application Map to help you monitor performance and troubleshoot issues.
+		
+12- AZ-204: Integrate caching and content delivery within solutions
+	1-AZ-204: Integrate caching and content delivery within solutions
+		At least one year of experience developing scalable solutions through all phases of software development.
+		Have a base understanding of Azure and cloud concepts, services, and the Azure portal.
+		If you are new to Azure or cloud computing it is recommended you complete the AZ-900: Azure Fundamentals course.
