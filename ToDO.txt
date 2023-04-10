@@ -21,9 +21,11 @@
 
 [X] Table Storage vs Cosmos DB
   https://microsoft.github.io/AzureTipsAndTricks/blog/tip360.html
+[X] AppService Plans - What is minimum autoscaling plan ->Standard
+  https://youtu.be/tbILuj7GMlI?t=219
   
 [] Function triggers - email bir trigger değil.
-[X] AppService Plans - What is minimum autoscaling plan ->Standard
+
 
 
 Links
