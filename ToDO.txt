@@ -24,6 +24,9 @@
 [X] AppService Plans - What is minimum autoscaling plan ->Standard
   https://youtu.be/tbILuj7GMlI?t=219
   
+[X] Stateless statefull short and good explanation
+  https://www.youtube.com/watch?v=P8D6P-6KVNM
+  
 [] Function triggers - email bir trigger değil.
 
 
